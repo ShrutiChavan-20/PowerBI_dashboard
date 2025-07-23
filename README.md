@@ -24,9 +24,5 @@ This Power BI dashboard explores delivery performance data for **Zepto**, the 10
 - **Home Care** and **Snacks** lead in product categories  
 - Real-time goal tracking to monitor business targets  
 
-## 📎 File Included
-
-- `.pbix` (Power BI file)  
-- Dataset (if publicly shareable)
 
 
